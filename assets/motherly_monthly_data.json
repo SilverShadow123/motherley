@@ -1,0 +1,367 @@
+{
+  "months": [
+    {
+      "month": 1,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Oranges", "Apples", "Berries"],
+          "nutritionalValue": "High in vitamins C and fiber",
+          "effectsOnBaby": "Supports immune function and healthy digestion"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Leafy Greens (Spinach, Kale)", "Carrots"],
+          "nutritionalValue": "Rich in vitamins A, C, and folate",
+          "effectsOnBaby": "Important for fetal growth and preventing neural tube defects"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Brown Rice", "Oats", "Whole Wheat Bread"],
+          "nutritionalValue": "Provides fiber and B vitamins",
+          "effectsOnBaby": "Helps maintain energy levels and digestive health"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Lean Meat", "Fish", "Eggs", "Beans"],
+          "nutritionalValue": "Source of protein and iron",
+          "effectsOnBaby": "Supports tissue growth and oxygen transport to the baby"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Milk", "Yogurt", "Cheese"],
+          "nutritionalValue": "High in calcium and protein",
+          "effectsOnBaby": "Essential for the baby's bone and teeth development"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Nuts", "Seeds", "Avocado"],
+          "nutritionalValue": "Provides essential fatty acids",
+          "effectsOnBaby": "Important for brain development and overall growth"
+        }
+      ]
+    },
+    {
+      "month": 2,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Bananas", "Berries", "Apples"],
+          "nutritionalValue": "High in vitamins, potassium, and fiber",
+          "effectsOnBaby": "Supports brain development and digestion"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Broccoli", "Sweet Potatoes", "Bell Peppers"],
+          "nutritionalValue": "Rich in vitamins A, C, and fiber",
+          "effectsOnBaby": "Important for immune function and skin development"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Quinoa", "Barley", "Whole Wheat Pasta"],
+          "nutritionalValue": "Provides fiber and B vitamins",
+          "effectsOnBaby": "Helps maintain energy levels and digestive health"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Chicken", "Fish", "Lentils", "Nuts"],
+          "nutritionalValue": "Source of protein, omega-3 fatty acids, and iron",
+          "effectsOnBaby": "Supports muscle development and brain growth"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Yogurt", "Milk", "Cheese"],
+          "nutritionalValue": "High in calcium and protein",
+          "effectsOnBaby": "Essential for the baby's bone and teeth development"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Olive Oil", "Avocado", "Nut Butters"],
+          "nutritionalValue": "Provides essential fatty acids",
+          "effectsOnBaby": "Important for brain development and overall growth"
+        }
+      ]
+    },
+    {
+      "month": 3,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Oranges", "Kiwi", "Avocado"],
+          "nutritionalValue": "High in vitamin C, fiber, and healthy fats",
+          "effectsOnBaby": "Supports immune function and brain development"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Spinach", "Carrots", "Zucchini"],
+          "nutritionalValue": "Rich in vitamins A, C, K, and iron",
+          "effectsOnBaby": "Important for fetal growth and development"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Oats", "Brown Rice", "Whole Wheat Bread"],
+          "nutritionalValue": "Provides fiber, B vitamins, and energy",
+          "effectsOnBaby": "Supports energy levels and digestive health"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Eggs", "Lean Beef", "Chickpeas"],
+          "nutritionalValue": "Source of protein, iron, and essential fatty acids",
+          "effectsOnBaby": "Supports muscle and brain development"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Cheese", "Yogurt", "Fortified Milk"],
+          "nutritionalValue": "High in calcium, protein, and vitamin D",
+          "effectsOnBaby": "Essential for the baby's bone and teeth development"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Nuts", "Seeds", "Fatty Fish"],
+          "nutritionalValue": "Provides omega-3 fatty acids and vitamin E",
+          "effectsOnBaby": "Important for brain and eye development"
+        }
+      ]
+    },
+    {
+      "month": 4,
+      "foodGroups": [
+        {
+          "group": "Fruits and Vegetables",
+          "foods": ["Spinach", "Oranges", "Bananas", "Carrots", "Berries"],
+          "nutritionalValue": "Rich in vitamins (A, C, folate), minerals (potassium), and fiber",
+          "effectsOnBaby": "Supports healthy development of organs, tissues, and the immune system; fiber aids digestion"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Brown Rice", "Quinoa", "Oats", "Whole Wheat Bread"],
+          "nutritionalValue": "High in complex carbohydrates, fiber, B vitamins, and iron",
+          "effectsOnBaby": "Provides sustained energy and essential nutrients for growth and brain development"
+        },
+        {
+          "group": "Protein Sources",
+          "foods": ["Lean Meats", "Fish", "Eggs", "Legumes"],
+          "nutritionalValue": "High in protein, iron, zinc, and essential fatty acids",
+          "effectsOnBaby": "Essential for tissue and muscle development, as well as brain growth"
+        },
+        {
+          "group": "Dairy or Dairy Alternatives",
+          "foods": ["Milk", "Yogurt", "Cheese", "Fortified Plant-Based Milk"],
+          "nutritionalValue": "Rich in calcium, vitamin D, protein, and probiotics",
+          "effectsOnBaby": "Supports bone health and overall growth"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Avocado", "Nuts", "Seeds", "Olive Oil"],
+          "nutritionalValue": "Contains essential fatty acids, vitamins (E, K), and energy",
+          "effectsOnBaby": "Important for brain development and proper growth"
+        }
+      ]
+    },
+    {
+      "month": 5,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Watermelon", "Strawberries", "Pineapple"],
+          "nutritionalValue": "High in hydration and vitamins",
+          "effectsOnBaby": "Supports hydration and nutrient intake"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Asparagus", "Cauliflower", "Brussels Sprouts"],
+          "nutritionalValue": "Rich in vitamins C, K, and fiber",
+          "effectsOnBaby": "Promotes healthy cellular development and digestion"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Farro", "Millet", "Whole Grain Crackers"],
+          "nutritionalValue": "High in fiber, B vitamins, and minerals",
+          "effectsOnBaby": "Provides energy and nutrients for fetal growth"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Turkey", "Tofu", "Peanut Butter"],
+          "nutritionalValue": "Source of lean protein and healthy fats",
+          "effectsOnBaby": "Supports muscle development and growth"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Cottage Cheese", "Milk", "Yogurt"],
+          "nutritionalValue": "Rich in calcium and protein",
+          "effectsOnBaby": "Essential for developing bones and teeth"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Flaxseeds", "Chia Seeds", "Nut Butters"],
+          "nutritionalValue": "Provides omega-3 fatty acids and fiber",
+          "effectsOnBaby": "Important for brain health and overall growth"
+        }
+      ]
+    },
+    {
+      "month": 6,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Peaches", "Cherries", "Mango"],
+          "nutritionalValue": "High in vitamins and antioxidants",
+          "effectsOnBaby": "Supports immune function and skin health"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Kale", "Tomatoes", "Cucumbers"],
+          "nutritionalValue": "Rich in vitamins A, C, K, and fiber",
+          "effectsOnBaby": "Essential for healthy growth and digestion"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Whole Grain Cereal", "Buckwheat", "Rye Bread"],
+          "nutritionalValue": "Provides fiber and energy",
+          "effectsOnBaby": "Helps maintain energy and digestive health"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Pork Tenderloin", "Beans", "Lentils"],
+          "nutritionalValue": "High in protein, iron, and fiber",
+          "effectsOnBaby": "Supports growth and nutrient transport"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Greek Yogurt", "Milk", "Ricotta"],
+          "nutritionalValue": "Rich in calcium and protein",
+          "effectsOnBaby": "Important for bone development"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Walnuts", "Pumpkin Seeds", "Coconut Oil"],
+          "nutritionalValue": "Contains healthy fats and vitamins",
+          "effectsOnBaby": "Supports brain health and growth"
+        }
+      ]
+    },
+    {
+      "month": 7,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Apples", "Pears", "Plums"],
+          "nutritionalValue": "High in fiber and vitamins",
+          "effectsOnBaby": "Supports digestion and nutrient absorption"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Carrots", "Bell Peppers", "Spinach"],
+          "nutritionalValue": "Rich in vitamins A, C, and fiber",
+          "effectsOnBaby": "Essential for fetal growth and immune function"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Barley", "Whole Wheat Couscous", "Brown Rice"],
+          "nutritionalValue": "High in fiber and energy",
+          "effectsOnBaby": "Provides sustained energy for growth"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Salmon", "Chicken", "Quinoa"],
+          "nutritionalValue": "High in protein and omega-3 fatty acids",
+          "effectsOnBaby": "Supports brain and tissue development"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Milk", "Yogurt", "Cottage Cheese"],
+          "nutritionalValue": "Rich in calcium and protein",
+          "effectsOnBaby": "Essential for bone health"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Almonds", "Olive Oil", "Avocado"],
+          "nutritionalValue": "Contains healthy fats and vitamins",
+          "effectsOnBaby": "Supports brain and overall growth"
+        }
+      ]
+    },
+    {
+      "month": 8,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Bananas", "Oranges", "Grapes"],
+          "nutritionalValue": "High in vitamins and hydration",
+          "effectsOnBaby": "Supports hydration and immune function"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Zucchini", "Eggplant", "Sweet Potatoes"],
+          "nutritionalValue": "Rich in vitamins A, C, and fiber",
+          "effectsOnBaby": "Essential for fetal growth and skin health"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Millet", "Quinoa", "Oats"],
+          "nutritionalValue": "High in fiber and energy",
+          "effectsOnBaby": "Supports digestion and energy levels"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Lentils", "Pork Tenderloin", "Chickpeas"],
+          "nutritionalValue": "Source of protein and iron",
+          "effectsOnBaby": "Supports muscle and tissue growth"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Yogurt", "Milk", "Cheese"],
+          "nutritionalValue": "Rich in calcium and protein",
+          "effectsOnBaby": "Essential for developing bones and teeth"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Nuts", "Seeds", "Coconut Oil"],
+          "nutritionalValue": "Contains healthy fats and vitamins",
+          "effectsOnBaby": "Supports brain development and overall health"
+        }
+      ]
+    },
+    {
+      "month": 9,
+      "foodGroups": [
+        {
+          "group": "Fruits",
+          "foods": ["Raspberries", "Blueberries", "Watermelon"],
+          "nutritionalValue": "High in vitamins and hydration",
+          "effectsOnBaby": "Supports hydration and nutrient intake"
+        },
+        {
+          "group": "Vegetables",
+          "foods": ["Beets", "Kale", "Cauliflower"],
+          "nutritionalValue": "Rich in vitamins A, C, K, and fiber",
+          "effectsOnBaby": "Promotes healthy growth and digestion"
+        },
+        {
+          "group": "Whole Grains",
+          "foods": ["Brown Rice", "Whole Wheat Pasta", "Farro"],
+          "nutritionalValue": "High in fiber and B vitamins",
+          "effectsOnBaby": "Provides sustained energy for growth and development"
+        },
+        {
+          "group": "Protein",
+          "foods": ["Tofu", "Chicken", "Fish"],
+          "nutritionalValue": "High in protein and omega-3 fatty acids",
+          "effectsOnBaby": "Supports muscle and brain development"
+        },
+        {
+          "group": "Dairy",
+          "foods": ["Greek Yogurt", "Milk", "Cottage Cheese"],
+          "nutritionalValue": "Rich in calcium and protein",
+          "effectsOnBaby": "Essential for bone health"
+        },
+        {
+          "group": "Healthy Fats",
+          "foods": ["Chia Seeds", "Flaxseeds", "Walnuts"],
+          "nutritionalValue": "Contains omega-3 fatty acids and fiber",
+          "effectsOnBaby": "Supports brain health and overall growth"
+        }
+      ]
+    }
+  ]
+}
